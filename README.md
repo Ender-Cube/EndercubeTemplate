@@ -9,6 +9,7 @@ A template [Minestom](https://minestom.net) server to be used as a base for all 
  * Player argument for LiteCommands
  * Block break protection
  * [Sign](https://github.com/Ender-Cube/EndercubeTemplate/blob/main/src/main/java/me/zax71/EndercubeTemplate/blocks/Sign.java) and [Skull](https://github.com/Ender-Cube/EndercubeTemplate/blob/main/src/main/java/me/zax71/EndercubeTemplate/blocks/Skull.java) block handlers
+ * GitHub Actions CI configuration
 
 ## Usage
 
