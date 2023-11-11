@@ -2,7 +2,7 @@
 
 ## Why is it archived?
 
-This is becoming too difficult to keep updated, just copy off [StomKor](https://github.com/Ender-Cube/StomKor) or [lightHub](https://github.com/Ender-Cube/lightHub
+This is becoming too difficult to keep updated, just copy off [StomKor](https://github.com/Ender-Cube/StomKor) or [lightHub](https://github.com/Ender-Cube/lightHub)
 
 
 Origional description ⬇️
