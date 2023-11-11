@@ -1,3 +1,12 @@
+
+
+## Why is it archived?
+
+This is becoming too difficult to keep updated, just copy off [StomKor](https://github.com/Ender-Cube/StomKor) or [lightHub](https://github.com/Ender-Cube/lightHub
+
+
+Origional description ⬇️
+
 # EndercubeTemplate
 
 A template [Minestom](https://minestom.net) server to be used as a base for all Endercube minigames
